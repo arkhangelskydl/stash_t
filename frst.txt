@@ -1,2 +1,6 @@
 1 str
+<<<<<<< Updated upstream
 after 1st stash before 1st commit in br1 
+=======
+test before 1st stash
+>>>>>>> Stashed changes
