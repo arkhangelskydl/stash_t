@@ -1,1 +1,2 @@
 1 str
+after 1st stash before 1st commit in br1 
